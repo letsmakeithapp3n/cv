@@ -1,0 +1,18 @@
+@font-face {
+    font-family:Montserrat ;
+    src: url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;1,100&display=swap');
+}
+.hdr{
+    color:rgb(34,72,160);
+    text-align:justify;
+}
+#title{
+    text-align: justify;
+    color:rgb(34, 72, 160);
+}
+.sn{
+    color:rgb(129, 122, 122);
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
