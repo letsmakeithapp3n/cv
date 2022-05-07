@@ -2,10 +2,7 @@
     font-family:Montserrat ;
     src: url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;1,100&display=swap');
 }
-:root{
-    --picture: src(C:\Users\Артём\Desktop\cv\lit\phone);
-    --pctr2:   src(C:\Users\Артём\Desktop\cv\lit\ghub);
-}
+
 .hdr{
     color:rgb(34,72,160);
     text-align:justify;
